@@ -1,5 +1,7 @@
 # AI Programming Foundations Project
 
+GitHub repository: https://github.com/masterofscienceinai/ai-programming-foundations-project.
+
 ## Project description
 This project is about building a reproducible data workflow using the COIL 2000 dataset. In this notebook I load, clean, explore and visualize the data to find out which customer characteristics are linked to having a caravan insurance policy. I check for biases and limitations and reflect on the findings.
 
